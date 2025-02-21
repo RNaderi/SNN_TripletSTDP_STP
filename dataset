@@ -1,0 +1,6 @@
+These samples include images from the MNIST (mono channel images of digits 0-9) and alphabet letters randomly selected from 10 classes of the EMNIST dataset (the 10 classes include E, I, l, W, q, Q, u, s, b, g) , each class with the same number of samples. 
+Noisy images are created by adding Gaussian noise (with a mean of 1 and a standard deviation of 1.5) to the same images of the MNIST and EMNIST datasets. 
+All subgroups share the same image size (28×28 pixels), data format, and train-evaluation ratio. 
+In each dataset, images from all classes are shuffled. 
+Finally, images are split into sets of training (80%) and evaluation (20%) in cluding 800 and 200 for training and test datasets. 
+The classes are evenly distributed within the training and evaluation sets, ensuring a balanced representation.
