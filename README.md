@@ -2,8 +2,8 @@
 Enabling Unsupervised Post-training Learning in Spiking Neural Networks using Short-term Plasticity
 
 ## Requirements
-brian2
-brian2tools
-numpy
-matplotlib
-scipy
+brian2 <br>
+brian2tools<br>
+numpy<br>
+matplotlib<br>
+scipy<br>
